@@ -1,5 +1,5 @@
 # cli-img-uploader
-Welcome to the cli-img-uploader wiki!
+Welcome to the cli-img-uploader Symfony 5 based app!
 
 This app allows you upload/remove image via CLI :100: 
 
